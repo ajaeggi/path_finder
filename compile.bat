@@ -1,0 +1,1 @@
+g++ -o test -I include main.cpp pathfinder.cpp node.cpp -lsfml-graphics -lsfml-audio -lsfml-window -lsfml-system
